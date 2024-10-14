@@ -11,12 +11,12 @@
     <lastBuildDate>Mon, 14 Oct 2024 20:57:41 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
+      <title>hello</title>
       <link>http://localhost:1313/posts/10efd1f/</link>
       <pubDate>Mon, 14 Oct 2024 20:57:41 +0800</pubDate><author>o2takuXX@qq.com (o2takuXX)</author>
       <guid>http://localhost:1313/posts/10efd1f/</guid>
-      <category domain="http://localhost:1313/categories/test/">Test</category>
-      <description><![CDATA[&lt;p&gt;test&lt;/p&gt;]]></description>
+      <category domain="http://localhost:1313/categories/hello/">Hello</category>
+      <description><![CDATA[&lt;p&gt;听&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;iframe&#xA;  class=&#34;netease-cloud-music-frame&#34;&#xA;  title=&#34;ZUTOMAYO&#34;&#xA;  frameborder=&#34;no&#34;&#xA;  border=&#34;0&#34;&#xA;  marginwidth=&#34;0&#34;&#xA;  marginheight=&#34;0&#34;&#xA;  width=&#34;320&#34;&#xA;  height=&#34;240&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  src=&#34;https://music.163.com/outchain/player?type=0&amp;amp;id=12727035400&amp;amp;auto=0&amp;amp;height=220&#34;&gt;&#xA;&lt;/iframe&gt;]]></description>
     </item>
   </channel>
 </rss>
