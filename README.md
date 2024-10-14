@@ -1,2 +1,3 @@
 # o2takuXX.github.io
-o2takuXX space
+
+[Click Here](https://o2takuxx.github.io/)
